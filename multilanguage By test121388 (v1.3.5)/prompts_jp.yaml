@@ -1,0 +1,340 @@
+note_help0010_e:
+  - iconId: 900
+    rect: [684, 415, 36, 36]
+  - iconId: 901
+    rect: [684, 505, 36, 36]
+  - iconId: 942
+    rect: [684, 566, 36, 36]
+  - iconId: 908
+    rect: [684, 296, 36, 36]
+  - iconId: 950
+    rect: [684, 627, 36, 36]
+  - iconId: 954
+    rect: [72, 358, 36, 36]
+  - iconId: 952
+    rect: [72, 296, 36, 36]
+  - iconId: 955
+    rect: [72, 480, 36, 36]
+  - iconId: 953
+    rect: [72, 419, 36, 36]
+  - iconId: 951
+    rect: [72, 602, 36, 36]
+  - iconId: 940
+    rect: [128, 178, 48, 48]
+  - iconId: 941
+    rect: [572, 178, 48, 48]
+  - iconId: 906
+    rect: [378, 522, 36, 36]
+  - iconId: 903
+    rect: [853, 505, 36, 36]
+  - iconId: 909
+    rect: [378, 564, 36, 36]
+  - iconId: 907
+    rect: [378, 378, 36, 36]
+  - iconId: 930
+    rect: [72, 541, 36, 36]
+  - iconId: 956
+    rect: [378, 296, 36, 36]
+  - iconId: 944
+    rect: [378, 638, 36, 36]
+  - iconId: 905
+    rect: [378, 439, 36, 36]
+note_help0020:
+  - iconId: 950
+    rect: [265, 134, 48, 48]
+  - iconId: 966
+    rect: [358, 186, 48, 48]
+note_help0030_e:
+  - iconId: 908
+    rect: [446, 134, 48, 48]
+  - iconId: 900
+    rect: [383, 683, 48, 48]
+  - iconId: 908
+    rect: [165, 328, 20, 20]
+  - iconId: 900
+    rect: [226, 328, 20, 20]
+note_help0050:
+  - iconId: 907
+    rect: [393, 134, 48, 48]
+note_help0060:
+  - iconId: 952
+    rect: [232, 479, 46, 46]
+  - iconId: 952
+    rect: [483, 656, 48, 48]
+  - iconId: 952
+    rect: [238, 219, 16, 16]
+note_help0090:
+  - iconId: 908
+    rect: [352, 258, 28, 28]
+note_help1010:
+  - iconId: 988
+    rect: [535, 697, 48, 48]
+note_help1020_e:
+  - iconId: 940
+    rect: [519, 134, 48, 48]
+  - iconId: 993
+    rect: [450, 488, 32, 32]
+  - iconId: 994
+    rect: [480, 488, 32, 32]
+  - iconId: 900
+    rect: [630, 433, 40, 40]
+note_help1030_e:
+  - iconId: 991
+    rect: [290, 127, 48, 48]
+  - iconId: 992
+    rect: [413, 127, 48, 48]
+  - iconId: 900
+    rect: [535, 167, 48, 48]
+note_help1040:
+  - iconId: 983
+    rect: [436, 135, 48, 48]
+note_help1070_e:
+  - iconId: 982
+    rect: [414, 121, 48, 48]
+  - iconId: 982
+    rect: [297, 433, 40, 40]
+  - iconId: 900
+    rect: [211, 310, 20, 20]
+note_help1180_e:
+  - iconId: 900
+    rect: [272, 509, 24, 24]
+note_help1050_e:
+  - iconId: 901
+    rect: [427, 134, 48, 48]
+  - iconId: 900
+    rect: [347, 423, 24, 24]
+  - iconId: 901
+    rect: [472, 498, 16, 16]
+note_help1060:
+  - iconId: 989
+    rect: [413, 134, 48, 48]
+  - iconId: 993
+    rect: [420, 726, 24, 24]
+  - iconId: 994
+    rect: [442, 726, 24, 24]
+  - iconId: 941
+    rect: [488, 718, 40, 40]
+note_help1080:
+  - iconId: 989
+    rect: [298, 629, 24, 24]
+  - iconId: 989
+    rect: [641, 259, 16, 16]
+note_help1090:
+  - iconId: 989
+    rect: [569, 471, 48, 48]
+note_help1130:
+  - iconId: 987
+    rect: [400, 135, 48, 48]
+  - iconId: 987
+    rect: [578, 721, 40, 40]
+  - iconId: 987
+    rect: [779, 129, 36, 36]
+note_help1140:
+  - iconId: 986
+    rect: [326, 127, 48, 48]
+  - iconId: 983
+    rect: [366, 654, 40, 40]
+  - iconId: 986
+    rect: [363, 453, 16, 16]
+note_help1150_e:
+  - iconId: 987
+    rect: [144, 533, 18, 18]
+  - iconId: 987
+    rect: [574, 533, 18, 18]
+  - iconId: 900
+    rect: [234, 435, 24, 24]
+  - iconId: 900
+    rect: [664, 435, 24, 24]
+note_help1160_e:
+  - iconId: 988
+    rect: [355, 125, 48, 48]
+  - iconId: 900
+    rect: [455, 125, 48, 48]
+  - iconId: 936
+    rect: [391, 459, 24, 24]
+  - iconId: 937
+    rect: [413, 459, 24, 24]
+  - iconId: 900
+    rect: [567, 450, 40, 40]
+  - iconId: 910
+    rect: [341, 718, 40, 40]
+note_help2010:
+  - iconId: 902
+    rect: [459, 136, 48, 48]
+  - iconId: 903
+    rect: [790, 664, 48, 48]
+note_help2020:
+  - iconId: 904
+    rect: [473, 136, 48, 48]
+  - iconId: 904
+    rect: [176, 599, 28, 28]
+  - iconId: 902
+    rect: [87, 657, 24, 24]
+  - iconId: 903
+    rect: [113, 675, 24, 24]
+note_help2040:
+  - iconId: 905
+    rect: [430, 134 , 48, 48]
+  - iconId: 905
+    rect: [269, 283, 24, 24]
+note_help2050:
+  - iconId: 904
+    rect: [548, 135, 48, 48]
+note_help2060:
+  - iconId: 903
+    rect: [407, 650, 40, 40]
+note_help2070:
+  - iconId: 944
+    rect: [444, 136, 48, 48]
+  - iconId: 946
+    rect: [581, 479, 36, 36]
+  - iconId: 947
+    rect: [707, 484, 36, 36]
+note_help3010_e:
+  - iconId: 960
+    rect: [59, 212, 48, 48]
+  - iconId: 961
+    rect: [59, 370, 48, 48]
+  - iconId: 963
+    rect: [59, 581, 48, 48]
+  - iconId: 965
+    rect: [672, 205, 48, 48]
+  - iconId: 962
+    rect: [665, 404, 48, 48]
+  - iconId: 964
+    rect: [533, 581, 48, 48]
+  - iconId: 960
+    rect: [467, 280, 32, 32]
+  - iconId: 961
+    rect: [375, 373, 32, 32]
+  - iconId: 901
+    rect: [561, 373, 32, 32]
+  - iconId: 962
+    rect: [467, 464, 32, 32]
+  - iconId: 963
+    rect: [367, 458, 32, 32]
+  - iconId: 964
+    rect: [567, 458, 32, 32]
+  - iconId: 965
+    rect: [591, 253, 28, 28]
+  - iconId: 966
+    rect: [210, 702, 40, 40]
+note_help3020:
+  - iconId: 963
+    rect: [444, 134, 48, 48]
+note_help3030:
+  - iconId: 951
+    rect: [398, 136, 48, 48]
+note_help3040:
+  - iconId: 921
+    rect: [485, 714, 36, 36]
+note_help3050_e:
+  - iconId: 961
+    rect: [381, 134, 48, 48]
+  - iconId: 900
+    rect: [589, 344, 32, 32]
+  - iconId: 900
+    rect: [562, 534, 32, 32]
+  - iconId: 900
+    rect: [554, 717, 32, 32]
+  - iconId: 911
+    rect: [209, 693, 32, 32]
+  - iconId: 910
+    rect: [209, 723, 32, 32]
+note_help3070:
+  - iconId: 955
+    rect: [383, 135, 48, 48]
+  - iconId: 955
+    rect: [148, 191, 28, 28]
+  - iconId: 911
+    rect: [677, 723, 40, 40]
+note_help3080:
+  - iconId: 954
+    rect: [353, 135, 48, 48]
+  - iconId: 954
+    rect: [147, 173, 40, 40]
+  - iconId: 910
+    rect: [418, 654, 36, 36]
+  - iconId: 911
+    rect: [437, 685, 36, 36]
+note_help3090_e:
+  - iconId: 936
+    rect: [386, 224, 28, 28]
+  - iconId: 937
+    rect: [410, 224, 28, 28]
+  - iconId: 900
+    rect: [568, 215, 48, 48]
+note_help3100_e:
+  - iconId: 964
+    rect: [367, 135, 48, 48]
+  - iconId: 911
+    rect: [427, 196, 40, 40]
+  - iconId: 900
+    rect: [323, 700, 40, 40]
+  - iconId: 910
+    rect: [611, 700, 40, 40]
+note_help3110:
+  - iconId: 919
+    rect: [540, 190, 48, 48]
+  - iconId: 919
+    rect: [148, 263, 32, 32]
+note_help4020_e:
+  - iconId: 960
+    rect: [329, 583, 32, 32]
+  - iconId: 961
+    rect: [238, 677, 32, 32]
+  - iconId: 901
+    rect: [418, 677, 32, 32]
+note_help4030:
+  - iconId: 984
+    rect: [566, 658, 32, 32]
+note_help4040:
+  - iconId: 965
+    rect: [445, 135, 48, 48]
+  - iconId: 965
+    rect: [881, 587, 40, 40]
+  - iconId: 950
+    rect: [614, 635, 48, 48]
+note_help4100:
+  - iconId: 916
+    rect: [698, 135, 48, 48]
+  - iconId: 917
+    rect: [756, 135, 48, 48]
+  - iconId: 916
+    rect: [421, 296, 24, 24]
+  - iconId: 917
+    rect: [561, 296, 24, 24]
+note_help4110_e:
+  - iconId: 942
+    rect: [658, 609, 40, 40]
+  - iconId: 901
+    rect: [317, 593, 12, 12]
+  - iconId: 942
+    rect: [356, 593, 12, 12]
+note_help4120:
+  - iconId: 910
+    rect: [556, 388, 16, 16]
+  - iconId: 911
+    rect: [556, 421, 16, 16]
+note_help4240_e:
+  - iconId: 908
+    rect: [165, 344, 16, 16]
+  - iconId: 900
+    rect: [203, 344, 16, 16]
+note_help5020_e:
+  - iconId: 900
+    rect: [166, 656, 20, 20]
+note_help6090_e:
+  - iconId: 910
+    rect: [725, 135, 48, 48]
+  - iconId: 921
+    rect: [118, 538, 24, 24]
+  - iconId: 900
+    rect: [210, 538, 24, 24]
+  - iconId: 910
+    rect: [330, 538, 24, 24]
+  - iconId: 911
+    rect: [450, 538, 24, 24]
+note_help7020:
+  - iconId: 986
+    rect: [357, 515, 40, 40]
